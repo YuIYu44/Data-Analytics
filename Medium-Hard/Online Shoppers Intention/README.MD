@@ -19,10 +19,10 @@ Dataset yang berisi kumpulan data mengenai pola pembelian dan perilaku konsumen 
   - OperatingSystems (Sistem Operasi Komputer)
   - Browser (Web Browser yang dipakai)
   - Region (Daerah pengunjung)
-  - TrafficType : Sumber lalu lintas yang membawa pengujung ke website
-- VisitorType (Jenis Pengujung) : Returning visitor atau New visitor
+  - TrafficType : Sumber lalu lintas yang membawa pengunjung ke website
+- VisitorType (Jenis Pengunjung) : Returning visitor atau New visitor
 - Weekend (Apakah diakses saat akhir pekan) : True atau False
-- Revenue (Apakah pengujung akhirnya membeli) : True atau False
+- Revenue (Apakah pengunjung akhirnya membeli) : True atau False
 
 ### Pertanyaan
 
@@ -37,7 +37,7 @@ Dataset yang berisi kumpulan data mengenai pola pembelian dan perilaku konsumen 
 ![Dashboard Menjawab Dari 5 Pertanyaan](Dashboard.png)
 
 1.  - Terhadap Bulan: ![Jawab Pertanyaan 1](image.png)
-    - Terhadap Jenis Pengujung: ![Jawab Pertanyaan 1](image-1.png)
+    - Terhadap Jenis Pengunjung: ![Jawab Pertanyaan 1](image-1.png)
 2.  - Halaman 0-49 ![Halaman 0-50](image-2.png)
     - Halaman 50-99 ![Halaman 50-99](image-3.png)
     - Halaman 100-149 ![Halaman 100-149](image-4.png)
@@ -45,8 +45,8 @@ Dataset yang berisi kumpulan data mengenai pola pembelian dan perilaku konsumen 
     - Halaman 200-249 ![Halaman 200-249](image-6.png)
     - Halaman 250-299 ![Halaman 250-299](image-7.png)
     - Halaman >=300 ![Halaman >=300](image-8.png)
-3.  - Halaman administratif![Halaman Administratif](image-9.png)
-    - Halaman informasi![Halaman informasi](image-10.png)
-    - Halaman produk![Halaman produk](image-11.png)
+3.  - Halaman administratif ![Halaman Administratif](image-9.png)
+    - Halaman informasi ![Halaman informasi](image-10.png)
+    - Halaman produk ![Halaman produk](image-11.png)
 4.  ![Jawab Pertanyaan 4](image-12.png)
 5.  ![Jawab Pertanyaan 5](image-13.png)
